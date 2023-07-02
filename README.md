@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @karlMinin404
+- 👀 I’m interested in development
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on somewhere
+- 📫 How to reach me - I will reach you!
